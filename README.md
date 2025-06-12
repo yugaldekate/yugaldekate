@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugaldekate" alt="yugaldekate" /></a> </p>
 
-- 🌱 I’m currently learning **Prisma and Docker with Nextjs**
+- 🌱 I’m currently exploring **Docker & Kubernetes**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
